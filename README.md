@@ -73,6 +73,6 @@ I’m a Data Scientist with a background in Statistics, specialized in Machine L
 
 <hr>
 
-💬 Feel free to reach out for questions, proposals, or collaboration ideas!
+💬 Feel free to reach out for questions, proposals, or collaboration ideas !
 
 <a href="https://www.linkedin.com/in/ferran-perez-anton/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge"/></a>
