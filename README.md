@@ -11,7 +11,7 @@ I’m a Data Scientist with a background in Statistics, specialized in Machine L
 - 🤓 **Research**: Developing innovative solutions.
 
 ## 🏢 Professional Background
-- **Current Role**: Data Scientist at **[Brickbro](https://brickbro.com)**
+- **Current Role**: Data Scientist at **[Seidor](https://seidor.com)**
 - **Experience**: Hands-on experience in scientific data projects, building data-driven solutions for research and applied AI.
 
 ## 🛠️ Skills & Proficiencies
